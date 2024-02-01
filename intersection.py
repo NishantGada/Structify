@@ -62,7 +62,8 @@ if __name__ == "__main__":
     t1_start = process_time()
 
     # Creating an instance of Intersection with the following input
-    intersection = Intersection([(0.78, 1.47, 1.77, 3.92), ("s1", "s2", "e1", "e2")])
+    # intersection = Intersection([(0.78, 1.47, 1.77, 3.92), ("s1", "s2", "e1", "e2")])
+    intersection = Intersection([(0.9, 1.3, 1.70, 2.92), ("s1", "e1", "s2", "e2")])
 
     # Calling the necessary methods
     intersection.convert_to_coords()
