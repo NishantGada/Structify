@@ -39,3 +39,7 @@ The code outputs information about the intersections, including whether the line
 ## Performance
 
 The code measures the execution time using the `process_time` function from the `time` module and prints the time taken to compute all intersections.
+
+## Next Steps?
+
+The code currently accepts hardcoded values for testing as input, a further development on this code could be dynamically accepting values from the user and then checking for those conditions.
