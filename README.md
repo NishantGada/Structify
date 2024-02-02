@@ -6,6 +6,9 @@ This Python script calculates and checks the intersection points between two cho
 
 ## Usage
 
+## Prerequisites
+Python 3 installed
+
 ### Running the Script
 
 1. Clone the repository or download the script.
