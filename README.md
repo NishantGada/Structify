@@ -45,7 +45,7 @@ The code measures the execution time using the `process_time` function from the 
 
 ## Time Complexity
 
-The code features a time complexity of O(n) to be able to successfully and efficiently test all the given points and determine the intersections, if any. 
+The code features a time complexity of O(n), where 'n' is the number of points in the input, to be able to successfully and efficiently test all the given points and determine the intersections, if any. 
 
 ## Next Steps?
 
